@@ -29,7 +29,7 @@ Blackburn is a clear and responsive theme for [Hugo](//gohugo.io).
   * Steam
   * Last.fm
   * Keybase
-* Client-side syntax highlighting by [Highlight.js](//highlightjs.org) (v9.1.0)
+* Client-side syntax highlighting by [Highlight.js](//highlightjs.org) (v9.6.0)
 * Web analytics by Google Analytics
 * Comments by Disqus
 * Icons by Font Awesome (v4.5.0)
